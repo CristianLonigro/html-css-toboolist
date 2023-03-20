@@ -5,21 +5,37 @@
 
 #button-task{
     margin: auto;
-    width: 50%;
-    height: 100px;
+    width: 10%;
+    height: 30px;
     background-color: rgb(14, 147, 224);
     border-style: solid;
-    border-radius: 5px;
+    border-radius: 10px;
     display: inline;
     text-align: center;
     padding: 7px;
-    font-size: 10px;
+    font-size: 12px;
     
 
 }
 
+#button-section {
+    margin: auto;
+    width: 13%;
+    height: 30px;
+    background-color: white;
+    border-style: solid;
+    border-radius: 10px;
+    display: inline;
+    text-align: center;
+    padding: 7px;
+    font-size: 12px;
+
 .container-medium{
     width: 70%;
-    margin: auto;
+    margin:auto;
+}
+
+.header {
+    background-color: aqua;
 }
 
